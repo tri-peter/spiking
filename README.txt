@@ -1,4 +1,4 @@
-rk4_2016_05_13.py
+spiking_2016_05_18.py
 
 Originator: Tri-Peter Shrive
 Contact: tri.shrive@gmail.com
